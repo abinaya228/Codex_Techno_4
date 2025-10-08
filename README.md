@@ -25,7 +25,7 @@ Visualization: Represent insights and results using graphical visualization.
 
 Dataset
 
-Name: amazon_review.csv
+Name: Reviews.csv
 
 Source: Amazon Product Reviews Dataset on Kaggle
 
